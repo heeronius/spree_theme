@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name        = 'spree_theme'
   s.version     = '2.3.4'
   s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.description = 'TODO: Add (optional) gem description here Add (optional) gem description here Add (optional) gem description here'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Rekha Dhakad'
